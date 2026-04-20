@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Recent Activity
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
